@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="news1" tvg-logo="https://example.com/logos/news.png" group-title="News",News Channel 1
+https://example.com/stream/news1.m3u8
+#EXTINF:-1 tvg-id="sports1" tvg-logo="https://example.com/logos/sports.png" group-title="Sports",Sports Channel 1
+https://example.com/stream/sports1.m3u8
+#EXTINF:-1 tvg-id="movie1" tvg-logo="https://example.com/logos/movies.png" group-title="Movies",Movie Channel 1
+https://example.com/stream/movie1.m3u8
+#EXTINF:-1 tvg-id="music1" tvg-logo="https://example.com/logos/music.png" group-title="Music",Music Channel 1
+https://example.com/stream/music1.m3u8

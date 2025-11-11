@@ -1,0 +1,20 @@
+[DEFAULT]
+# Default playlist location (can be a file path or URL)
+playlist = playlist.m3u
+
+# User agent for HTTP requests
+user_agent = Mizo Green IPTV Player/1.0
+
+[Player]
+# Preferred video quality (if available)
+quality = 720p
+
+# Buffer size in seconds
+buffer_size = 5
+
+[Network]
+# Connection timeout in seconds
+timeout = 10
+
+# Maximum retries for failed connections
+max_retries = 3
